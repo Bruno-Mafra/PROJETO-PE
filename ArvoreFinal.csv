@@ -1,0 +1,88 @@
+ID;Pergunta;A;Nó A;B;Nó B
+1;Numa escala de 0 a 10 a nota geral é maior que 8?;SIM;2;NÃO;107
+2;A casa tem pelo menos 4 quartos?;SIM;3;NÃO;66
+3;A casa foi construida depois do ano 2000?;SIM;4;NÃO;12
+4;A casa tem porão?;SIM;5;NÃO;19
+5;A area de convivência é maior que 232 metros quadrados (2500sqft)?;SIM;6;NÃO;38
+6;Numa escala de 0 a 5 o estado de conservação é pelo menos 4?;SIM;7;NÃO;41
+7;A casa já foi reformada alguma vez?;SIM;8;NÃO;56
+8;A casa tem mais de um andar?;SIM;9;NÃO;57
+9;NÓ FOLHA;ACIMA DO VALOR DE MERCADO;;;
+12;A casa tem mais de um andar?;SIM;13;NÃO;14
+13;NÓ FOLHA;ACIMA DO VALOR DE MERCADO;;;
+14;NÓ FOLHA;ABAIXO DO VALOR DE MERCADO;;;
+19;A casa tem mais de um andar?;SIM;20;NÃO;25
+20;A area de convivência é maior que 232 metros quadrados (2500sqft)?;SIM;21;NÃO;26
+21;A casa já foi reformada alguma vez?;SIM;22;NÃO;27
+22;O terreno tem área total maior que 1300 metros quadrados (14000sqft)?;SIM;23;NÃO;28
+23;Numa escala de 0 a 5 o estado de conservação é pelo menos 4?;SIM;24;NÃO;31
+24;NÓ FOLHA;ACIMA DO VALOR DE MERCADO;;;
+25;NÓ FOLHA;ABAIXO DO VALOR DE MERCADO;;;
+26;NÓ FOLHA;ABAIXO DO VALOR DE MERCADO;;;
+27;NÓ FOLHA;ABAIXO DO VALOR DE MERCADO;;;
+28;A casa tem mais de 2 banheiros?;SIM;29;NÃO;34
+29;Numa escala de 0 a 5 o estado de conservação é pelo menos 4?;SIM;30;NÃO;35
+30;NÓ FOLHA;ABAIXO DO VALOR DE MERCADO;;;
+31;NÓ FOLHA;ABAIXO DO VALOR DE MERCADO;;;
+34;NÓ FOLHA;ACIMA DO VALOR DE MERCADO;;;
+35;NÓ FOLHA;ACIMA DO VALOR DE MERCADO;;;
+38;Numa escala de 0 a 5 o estado de conservação é pelo menos 4?;SIM;39;NÃO;40
+39;NÓ FOLHA;ABAIXO DO VALOR DE MERCADO;;;
+40;NÓ FOLHA;ACIMA DO VALOR DE MERCADO;;;
+41;A casa já foi reformada alguma vez?;SIM;42;NÃO;46
+42;A casa tem mais de 2 banheiros?;SIM;43;NÃO;47
+43;A casa tem mais de um andar?;SIM;44;NÃO;50
+44;NÓ FOLHA;ACIMA DO VALOR DE MERCADO;;;
+46;NÓ FOLHA;ACIMA DO VALOR DE MERCADO;;;
+47;NÓ FOLHA;ACIMA DO VALOR DE MERCADO;;;
+50;NÓ FOLHA;ABAIXO DO VALOR DE MERCADO;;;
+56;NÓ FOLHA;ABAIXO DO VALOR DE MERCADO;;;
+57;O terreno tem área total maior que 1300 metros quadrados (14000sqft)?;SIM;58;NÃO;59
+58;NÓ FOLHA;ACIMA DO VALOR DE MERCADO;;;
+59;A casa tem varanda?;SIM;60;NÃO;62
+60;NÓ FOLHA;ABAIXO DO VALOR DE MERCADO;;;
+62;NÓ FOLHA;ACIMA DO VALOR DE MERCADO;;;
+66;A area de convivência é maior que 232 metros quadrados (2500sqft)?;SIM;67;NÃO;102
+67;O terreno tem área total maior que 1300 metros quadrados (14000sqft)?;SIM;68;NÃO;74
+68;Numa escala de 0 a 5 o estado de conservação é pelo menos 4?;SIM;69;NÃO;87
+69;A casa já foi reformada alguma vez?;SIM;70;NÃO;96
+70;A casa foi construida depois do ano 2000?;SIM;71;NÃO;97
+71;A casa tem porão?;SIM;72;NÃO;100
+72;A casa tem mais de um andar?;SIM;73;NÃO;101
+73;NÓ FOLHA;ACIMA DO VALOR DE MERCADO;;;
+74;Numa escala de 0 a 5 o estado de conservação é pelo menos 4?;SIM;75;NÃO;77
+75;NÓ FOLHA;ACIMA DO VALOR DE MERCADO;;;
+77;A casa tem mais de 2 banheiros?;SIM;78;NÃO;81
+78;A casa tem porão?;SIM;79;NÃO;84
+79;NÓ FOLHA;ABAIXO DO VALOR DE MERCADO;;;
+81;NÓ FOLHA;ABAIXO DO VALOR DE MERCADO;;;
+84;NÓ FOLHA;ACIMA DO VALOR DE MERCADO;;;
+87;NÓ FOLHA;ABAIXO DO VALOR DE MERCADO;;;
+96;NÓ FOLHA;ACIMA DO VALOR DE MERCADO;;;
+97;A casa tem porão?;SIM;98;NÃO;99
+98;NÓ FOLHA;ABAIXO DO VALOR DE MERCADO;;;
+99;NÓ FOLHA;ACIMA DO VALOR DE MERCADO;;;
+100;NÓ FOLHA;ABAIXO DO VALOR DE MERCADO;;;
+101;NÓ FOLHA;ABAIXO DO VALOR DE MERCADO;;;
+102;NÓ FOLHA;ABAIXO DO VALOR DE MERCADO;;;
+107;A casa tem pelo menos 4 quartos?;SIM;108;NÃO;124
+108;A area de convivência é maior que 232 metros quadrados (2500sqft)?;SIM;109;NÃO;110
+109;NÓ FOLHA;ACIMA DO VALOR DE MERCADO;;;
+110;A casa tem mais de um andar?;SIM;111;NÃO;112
+111;NÓ FOLHA;ACIMA DO VALOR DE MERCADO;;;
+112;A casa foi construida depois do ano 2000?;SIM;113;NÃO;118
+113;A casa tem porão?;SIM;114;NÃO;121
+114;A casa tem varanda?;SIM;115;NÃO;122
+115;NÓ FOLHA;ABAIXO DO VALOR DE MERCADO;;;
+118;NÓ FOLHA;ABAIXO DO VALOR DE MERCADO;;;
+121;NÓ FOLHA;ABAIXO DO VALOR DE MERCADO;;;
+122;NÓ FOLHA;ACIMA DO VALOR DE MERCADO;;;
+124;O terreno tem área total maior que 1300 metros quadrados (14000sqft)?;SIM;125;NÃO;134
+125;NÓ FOLHA;ACIMA DO VALOR DE MERCADO;;;
+134;A casa foi construida depois do ano 2000?;SIM;135;NÃO;138
+135;A casa tem porão?;SIM;136;NÃO;139
+136;NÓ FOLHA;ACIMA DO VALOR DE MERCADO;;;
+138;NÓ FOLHA;ACIMA DO VALOR DE MERCADO;;;
+139;A casa tem mais de um andar?;SIM;140;NÃO;141
+140;NÓ FOLHA;ACIMA DO VALOR DE MERCADO;;;
+141;NÓ FOLHA;ABAIXO DO VALOR DE MERCADO;;;
